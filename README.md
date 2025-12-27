@@ -1,5 +1,6 @@
 # expense-tracker-js
 Expense Tracker Application
+(https://github.com/saqib783/expense-tracker-js/blob/3df14d3fefb1d5cadcd73e0c36dde0822027a7ce/Screenshot%20(1128).png)
 A simple and beautiful web-based expense tracker that helps you monitor your daily spending with an intuitive user interface.
 
 🌟 Features
